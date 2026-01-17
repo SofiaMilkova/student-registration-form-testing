@@ -9,5 +9,5 @@ Student Registration Form - Manual Testing
 Возраст студентов от 14 до 70 лет
 Обязательные поля: First Name, Last Name, Mobile Number, Gender, Date of Birth, State and City.
 Строка Mobile Number принимает только 10 символов и только цифры.
-Email не обязателен, но должен быть валидным (sonadolcemilkova@test.com)
+Email не обязателен, но должен быть валидным (sonadolcemilkova@test.com).
 Максимальный размер файла: 5МБ
